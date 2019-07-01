@@ -1,7 +1,2 @@
 # car-calculator
-Simple CRUD car calculator in Spring Boot with JPA 
-This application is using :
--Spring Boot
--JPA (mySQL)
--JSP
--CSS + bootstrap 
+Simple CRUD web-app in Spring Boot with JPA. It calculate current consumption of petrol and costs of travelling and it store it in database. Application use: Spring Boot, JPA(mySQL), Bootstrap, CSS, JSP
